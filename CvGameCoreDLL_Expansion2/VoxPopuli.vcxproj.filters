@@ -310,6 +310,7 @@
     <ClCompile Include="lua\CvLuaUnit.cpp">
       <Filter>interface</Filter>
     </ClCompile>
+    <ClCompile Include="..\RCF\src\RCF\RCF.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\CvGameCoreDLLUtil\include\CvEnums.h" />
